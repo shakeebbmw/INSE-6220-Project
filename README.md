@@ -47,13 +47,6 @@ Key Findings
 PCA reduced dimensionality effectively, retaining 89% of the variance with six components.
 Random Forest performed best with a balanced dataset (accuracy: 67%).
 SMOTE improved predictions for underrepresented classes, such as quality 3 and 8.
-Usage
-Dependencies: Install the required libraries using:
-
-bash
-Copy code
-pip install pandas matplotlib seaborn scikit-learn imbalanced-learn
-Run the Code: Execute the Python notebook or script in Google Colab or any Python IDE.
 
 Navigate the Code:
 
